@@ -9,4 +9,4 @@ After going through the survey, one will be able to answer the following questio
 * What are the key protocols of IMS?
 * Why an operator needs IMS, and what is its relation with the core network?
 
->The primary reference used to prepare this survey is a white paper on the same topic from Ericsson, available in the repository.
+>A comprehensive paper on this subject is the white paper from Ericsson, available in the repository.
