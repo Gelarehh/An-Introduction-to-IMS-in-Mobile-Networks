@@ -1,4 +1,4 @@
-# An-Introduction-to-IMS-in-Mobile-Networks
+# An Introduction to IMS in Mobile Networks
 
 A short survey on the concept of IMS in mobile networks is prepared and presented.
 
