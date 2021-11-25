@@ -1,8 +1,8 @@
 # An Introduction to IMS in Mobile Networks
 
-A short survey on the concept of IMS in mobile networks is prepared and presented.
+A brief study on IP Multimedia Subsystem (IMS) in mobile networks is presented here.
 
-After going through the survey, one will be able to answer the following questions:
+After going through this study, one will be able to answer the following questions:
 
 * What is the IMS structure?
 * What are the purpose and tasks of IMS?
